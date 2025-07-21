@@ -24,4 +24,10 @@ How to Run:
 Launch the application from your terminal:
 • Default CLI Mode: python your_script_name.py
 • GUI Mode: python your_script_name.py --gui
+
+ 👤 Author
+**Abhishek John**  
+[GitHub Profile](https://github.com/ABHISHEK-JOHN-1)  
+
+
     ◦ The GUI can also be launched from within the CLI menu.
