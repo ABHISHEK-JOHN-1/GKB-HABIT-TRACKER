@@ -1,2 +1,2 @@
 # GKB-HABIT-TRACKER
-This habit tracker uses SQLite, offering CLI and GUI interfaces, managing habits, streaks, reminders, statistics.
+This code implements a versatile habit tracker application that utilises an SQLite database for data storage, provides both a command-line (CLI) and graphical (GUI) interface for user interaction, and includes functionalities such as adding, editing, deleting, and marking habits as done, alongside tracking streaks, setting reminders, and generating performance statistics for history, weekly, and monthly progress.
